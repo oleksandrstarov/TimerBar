@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<label>Tiomila starts</label>
+	<!-- restricted amount of simbols from 3 to 38-->
+	<date>
+		<year>2012</year>
+		<month>5</month>
+		<day>5</day>
+		<hour>21</hour>
+	</date>
+</settings>
