@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <target>
-	<label>Name Of Event</label>
+	<label>Winter is coming!</label>
 	<!-- restricted amount of simbols to 38-->
 	<date>
-		<year>2013</year>
+		<year>2016</year>
 		<month>12</month>
 		<day>01</day>
 		<hour>22</hour>
