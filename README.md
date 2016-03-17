@@ -1,2 +1,2 @@
 # TimerBar
-ActionScript timer bar for my blog
+ActionScript timer bar
